@@ -1,7 +1,7 @@
 export const Home = () => {
   return (
     <>
-      <div className="pt-20 bg-gradient-to-r from-violet-500 to-fuchsia-500 text-white min-h-dvh flex justify-center items-center">
+      <div className="pt-20 bg-gradient-to-r from-gray-950 via-pink-800 to-gray-950 text-white min-h-dvh flex justify-center items-center">
         <section className="bg-gray-400/25 rounded-xl h-max md:w-1/2 sm:w-full flex flex-col justify-center items-center text-center py-9">
           <h1 className="text-8xl font-bold bg-gradient-to-r from-pink-900 via-indigo-600 to-purple-950 text-transparent bg-clip-text animate-gradient bg-300%">Zaida Ranea</h1>
           <p className="text-4xl">La fucking ama</p>
